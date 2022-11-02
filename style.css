@@ -1,0 +1,139 @@
+body{
+font-family: 'Bebas Neue', cursive;
+      font-family: 'Poppins', sans-serif;
+      font-family: 'Roboto', sans-serif   
+}
+body{
+      margin: 0 auto;
+}
+.first-section{
+      background-image: url(images/donation0.jpg);
+      background-repeat: no-repeat;
+      height: 280px;
+      background-size: cover;
+}
+.first-width{
+      text-align: center;
+      color: white;
+      padding-top: 30px;
+}
+.link-button{
+      text-decoration: none;
+      background-image: linear-gradient(tomato,orange);
+      padding: 7px  10px;
+      color: white;
+}
+p{
+      font-size: 10px;
+}
+.second-width{
+      text-align: center;
+      color: black;
+      margin-top:50px ;
+}
+.h1{
+      font-size: larger;
+}
+.second-section{
+      display: flex;
+}
+.third-width{
+      border: 1px solid;
+      padding: 10px 20px;
+      margin-left: 70px;
+      background-color: whitesmoke;
+      border-radius: 3px;
+      margin-bottom: 20px;  
+}
+.other{
+      text-align: center;
+}
+.link-button1 {
+      text-decoration: none;
+      background-image: linear-gradient(tomato, orange);
+      padding: 7px 10px;
+      color: white;
+      margin-left: 44%;
+     
+}
+.plan{
+      margin-top: 50px;
+      text-align: center;
+      margin-bottom:40px ;
+
+}
+.third-section{
+      display: flex;
+      margin-bottom: 50px;
+}
+.food{
+      border: 2px solid lightpink;
+      width: 300px;
+      height: 170px;
+      background-color:lightpink;
+      margin: 15px;
+      padding: 10px;
+}
+
+.shelter{
+      border: 2px solid lightblue;
+      width: 300px;
+      height: 170px;
+      background-color:lightblue;
+      margin: 15px;
+      padding: 10px;
+
+}
+.education{
+      border: 2px solid whitesmoke;
+      width: 300px;
+      height: 170px;
+      background-color: lightsteelblue;
+      margin: 15px;
+      padding: 10px;
+}
+.forth-section{
+      display: flex;
+}
+.forth-section img{
+      width:97%;
+}
+.width{
+       background-image: linear-gradient(black,black);
+       color: white;
+       width: 600%;
+       text-align: justify;
+       padding-left: 7%;
+       height: 262px;
+       margin-bottom:50px ;
+}
+.link{
+      text-decoration: none;
+      background-image: linear-gradient(tomato, orange);
+      padding: 7px 10px;
+      color: white;
+      border-radius: 20PX;
+}
+.email{
+      text-align: center;
+
+}
+#two-hundred{
+      background-color: lightpink;
+      border: 1px   solid     red;
+}
+footer{
+      background-color: black;
+      color: aliceblue;
+      font-size: x-small;
+      padding: 20px     10px;
+      text-align: center;
+      margin-top: 20px;
+}
+.submit-button{
+      background-color: orange;
+      color: aliceblue;
+      border: 1px solid orange;
+}
+
+
